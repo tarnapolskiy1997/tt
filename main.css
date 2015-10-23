@@ -1,0 +1,13 @@
+.logo:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+.li_under_div_in_header{
+	margin-top: 15px;
+}
+.li_under_div_in_header:first-child{
+	margin-top: 0;
+}
+.li_under_div_in_header:hover{
+	text-decoration: underline;
+}
